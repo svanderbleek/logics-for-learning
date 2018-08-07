@@ -15,3 +15,13 @@ A sandbox for educational prototypes using different logics to understand mathem
 - https://www.edukera.com/
 - http://dev.geogebra.org/trac/wiki/TheoremProving
 - https://www.ucalgary.ca/aslcle/logic-courseware
+- https://leanprover.github.io/theorem_proving_in_lean/
+
+## Outline
+
+1. Visual Proof Languages
+a. Frege
+b. Pierce
+c. Tableux
+d. Natural Deduction
+e. Fitch Trees
