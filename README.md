@@ -23,5 +23,25 @@ A sandbox for educational prototypes using different logics to understand mathem
 a. Frege
 b. Pierce
 c. Tableux
-d. Natural Deduction
-e. Fitch Trees
+d. Proof Trees
+e. Natural Deduction
+f. Fitch Trees
+
+2. Visualized Proof Language
+a. Propositions
+b. First-Order Logic
+c. Calculus of Inductive Constructions
+d. Term rewriting
+e. Goals
+f. Higher Order Logic
+g. Metatheorems
+
+3. Statistics for Data Science
+a. Probabilities
+b. Functional Equations
+c. https://en.wikipedia.org/wiki/Effect_size
+d. https://en.wikipedia.org/wiki/Odds_ratio
+
+4. Linear Algebra for Machine Learning
+
+5. Distributed Systems for Software Engineering

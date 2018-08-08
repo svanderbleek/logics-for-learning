@@ -1,0 +1,11 @@
+P = True | False
+
+A /\ B = true A and true B
+
+forall A B. A /\ B -> B /\ A.
+
+any A B.
+arg A /\ B as AND.
+destruct AND with 
+
+forall A B. A \/ B -> B \/ A.
