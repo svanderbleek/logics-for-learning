@@ -8,6 +8,11 @@ A sandbox for educational prototypes using different logics to understand mathem
 - Attempt to teach a range of subjects, Logic, Probability, Statistics, Linear Algebra, Numerical Analysis, and Programming Language Theory
 - Connect excersises with career outcomes in Data Science, Software Engineering, and Machine Learning
 
+## Background
+
+- https://en.wikipedia.org/wiki/Logic_programming
+- https://en.wikipedia.org/wiki/Stable_model_semantics
+
 ## Prior Work
 
 - http://www.logicinaction.org/
