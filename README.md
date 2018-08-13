@@ -15,6 +15,7 @@ A sandbox for educational prototypes using different logics to understand mathem
 
 ## Prior Work
 
+- http://lambdacalculator.com/
 - http://www.logicinaction.org/
 - http://rkirsling.github.io/modallogic/
 - https://www.edukera.com/
